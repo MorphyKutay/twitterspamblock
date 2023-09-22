@@ -1,6 +1,6 @@
 # twitterspamblock
 
-ibrahim balic'den feyz alinmistir 
+ibrahim balic' projesinden alınmıştır
 
 
 eklenen ozellik : spam hesaplari otomatik olarak report etmek
